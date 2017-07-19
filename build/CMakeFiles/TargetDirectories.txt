@@ -1,0 +1,3 @@
+/media/sachin/SDC/Sachin/quizzes/CarND-MPC-Quizzes-master/CarND-MPC-Project-master_2ndSubmission/build/CMakeFiles/rebuild_cache.dir
+/media/sachin/SDC/Sachin/quizzes/CarND-MPC-Quizzes-master/CarND-MPC-Project-master_2ndSubmission/build/CMakeFiles/edit_cache.dir
+/media/sachin/SDC/Sachin/quizzes/CarND-MPC-Quizzes-master/CarND-MPC-Project-master_2ndSubmission/build/CMakeFiles/mpc.dir
